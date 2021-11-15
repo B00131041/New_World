@@ -1,0 +1,47 @@
+footer {
+            position: fixed;
+            bottom: 0;
+            margin-top: auto;
+            padding: 0px;0px;0px;0px;
+            width: 100%;
+            /* Height of the footer*/ 
+            height: 70px;
+            color: gray;
+            font-size: 12px;
+            background-color: black;
+        }
+header
+{
+    color: gray;
+    text-align: center;
+    font-size: 12px;
+    background-color: black;
+
+}
+body {
+      font-family: 'Ubuntu', sans-serif !important;
+      color: ghostwhite!important;
+      padding-bottom: 70px;
+}
+
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
+
+#grad { /* just6 add  id="grad" to div where you need grad! */
+background: rgb(33,37,41);
+background: linear-gradient(90deg, rgba(33,37,41,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+#grad1 {
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(33,37,41,1) 100%);
+}
+
+p{
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
